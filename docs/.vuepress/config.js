@@ -1,5 +1,6 @@
 // .vuepress/config.js
 module.exports = {
+  base: '/CSS-The-Definitive-Guide-4th-zh/',
   themeConfig: {
     // 最大深度
     sidebarDepth: 4,
